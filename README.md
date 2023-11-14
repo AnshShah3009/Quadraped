@@ -23,7 +23,7 @@ d) Motion planning by algorithmic video processing.
 e) 3D printing the parts of Quadruped.
 f) Testing the bot in real world scenario.
 
-**Currently Members working on project-**
+**Members who worked on project-**
 
 a) Trivikram Choudhury
 b) Nitin Vinayak Agrawal
@@ -32,16 +32,4 @@ d) Shantanu Nigam
 e) Devesh Sharma
 f) Archit Golatkar
 g) Aayush Agarwal
-Check out our progress on our Github website-https://github.com/BitsRobocon/Quadruped
-
-**Also check out our other projects–**
-
-Website:https://teamroboconbitspilani.github.io/
-Blog:https://teamroboconbitspilani.home.blog/
-Github:https://github.com/BitsRobocon
-Facebook:https://www.facebook.com/bitspilanirobocon
-LinkedIn:https://www.linkedin.com/company/team-robocon-bits-pilani/
-GooglePlus:https://plus.google.com/106004069810406041106
-Instagram:https://www.instagram.com/teamroboconbitspilani/
-
-If you want to know more about our project email us at: bitsrobocon@gmail.com
+h) Ansh Shah
