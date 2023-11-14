@@ -1,7 +1,7 @@
 # Quadruped
 Design and development of an autonomous four legged robot.
 
-![Quadruped Image](legModel (2).jpg)
+![Quadruped Image](/Photos/legModel%20(1).jpg)
 
 Quadruped is an autonomous robot capable of locomotion with four legs. Each leg requires three degrees of freedom and hence three independent high torque motors for its function. The quadruped will be controlled by a microprocessor capable of interpreting environment data through sensors and camera live feed, in turn controlling the signals given to motors for locomotion. In addition there would be a power supply in form of a lithium battery. We are currently studying about the mathematical models that can be implemented by analysing research papers already published. We are also looking for other locomotion mechanisms for optimised movement. After mastering manual movement, we will implement mathematical models and auto correction algorithms to make the movement of the bot autonomous.
 The final quadruped woud be capable of locomotion independent of any human interference based on sensory input it receives. It has several real life applications, few of them being - These bots can be used as payload carrying animals and completing various life endangering tasks for humans example Bomb Disposal or exploring difficult terrains. The bot with better algorithms and sensor inputs will be able to mimic animal behaviour and will help in better understanding of animal behaviour.
